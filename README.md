@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with the Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App] and built the components to replicate Jokes API query builder (https://github.com/facebook/create-react-app).
+
+## Project setup in local
+If you would like to explore the project, Download the zip or clone the repository and install the node modules by using  `npm install` command in your project directory.
 
 ## Available Scripts
 
